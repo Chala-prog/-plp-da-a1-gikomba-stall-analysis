@@ -1,7 +1,7 @@
 # Gikomba Stall Analysis
 
 **Name:** Chala Wakshuma
-**Cohort:** Chala Wakshuma
+**Cohort:** YOUR COHORT
 
 ## Business problem
 

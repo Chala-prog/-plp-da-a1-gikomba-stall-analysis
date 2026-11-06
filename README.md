@@ -1,7 +1,7 @@
 # Gikomba Stall Analysis
 
 **Name:** Chala Wakshuma
-**Cohort:** 2026
+**Cohort:** 1MillionDevs, 2026
 
 ## Business problem
 
